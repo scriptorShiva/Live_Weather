@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Live_Weather/static/css/main.a422a112.css",
+    "main.js": "/Live_Weather/static/js/main.ed325f92.js",
+    "static/media/humidity.png": "/Live_Weather/static/media/humidity.175cbf40f547cd4540f3.png",
+    "static/media/haze.png": "/Live_Weather/static/media/haze.6f020d4e3d05ef1c7c82.png",
+    "static/media/overcast clouds.png": "/Live_Weather/static/media/overcast clouds.03f130d47ee549381ea3.png",
+    "static/media/wind.png": "/Live_Weather/static/media/wind.80966461afa86e19d738.png",
+    "static/media/light rain.png": "/Live_Weather/static/media/light rain.cb7a9cf6f67c04001be2.png",
+    "static/media/mist.png": "/Live_Weather/static/media/mist.c9c1c2b9e9752e301223.png",
+    "static/media/broken clouds.png": "/Live_Weather/static/media/broken clouds.45177cffff8bec26f2b1.png",
+    "static/media/clear sky.png": "/Live_Weather/static/media/clear sky.7f46163d9449c6de541a.png",
+    "static/media/sunset.png": "/Live_Weather/static/media/sunset.6de8e80d69c9add14297.png",
+    "static/media/rain.png": "/Live_Weather/static/media/rain.5822aa58e350c6717af0.png",
+    "static/media/sunrise.png": "/Live_Weather/static/media/sunrise.7c976ba0d738b34cfd4c.png",
+    "index.html": "/Live_Weather/index.html",
+    "main.a422a112.css.map": "/Live_Weather/static/css/main.a422a112.css.map",
+    "main.ed325f92.js.map": "/Live_Weather/static/js/main.ed325f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a422a112.css",
+    "static/js/main.ed325f92.js"
+  ]
+}
